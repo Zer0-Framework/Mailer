@@ -67,7 +67,7 @@ final class SendMail extends \Zer0\Queue\TaskAbstract
         /**
          * @var Base $mailer
          */
-        $mailer = App::instance()->broker('Mailer')->get();
+        $mailer = App::instance()->factory('Mailer');
 
         $mailer->send(
             $this->to,
