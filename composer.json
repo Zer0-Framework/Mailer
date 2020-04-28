@@ -2,7 +2,7 @@
     "name"  : "zer0-framework/mailer",
     "type"  : "library",
     "keywords": ["Zer0", "highload"],
-    "homepage": "Mailers://github.com/zer0-framework/mailer",
+    "homepage": "https://github.com/zer0-framework/mailer",
     "license" : "GPL-3.0-or-later",
     "description": "",
     "authors" : [
@@ -14,7 +14,7 @@
     ],
     "support" : {
         "email" : "kak.serpom.po.yaitsam@gmail.com",
-        "issues": "Mailers://github.com/zer0-framework/mailer/issues"
+        "issues": "https://github.com/zer0-framework/mailer/issues"
     },
     "require": {
         "php": ">=7.2",
